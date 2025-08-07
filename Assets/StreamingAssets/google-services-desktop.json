@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1016205401666",
+    "project_id": "cluckpop-326af",
+    "storage_bucket": "cluckpop-326af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016205401666:android:afeb23751f0d773f04d7db",
+        "android_client_info": {
+          "package_name": "com.aerotools.photo.sketch.maker.edito"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuIq7awQutREQZfeFicmU-wvq6SmKmUK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

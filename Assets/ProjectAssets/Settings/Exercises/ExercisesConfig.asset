@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 768254776a5879648b4f57cd7cd179f6, type: 3}
+  m_Name: ExercisesConfig
+  m_EditorClassIdentifier: 
+  EasyUpperConfig:
+    ExercisesPerDay:
+    - {fileID: 11400000, guid: ffacd6aca99b32c43b2901cdf8fe2357, type: 2}
+    - {fileID: 11400000, guid: 1367ffb2ddfa719449496afcd4faa419, type: 2}
+    - {fileID: 11400000, guid: d8a11257078a340479dfcb1740292ef6, type: 2}
+    - {fileID: 11400000, guid: e84802772fc207d4ea969cdb2a1dfde6, type: 2}
+    - {fileID: 11400000, guid: 72bd9475c746b3648b5c3dea5d0a0b56, type: 2}
+    - {fileID: 11400000, guid: 82af81d1f8b52c54dbef3f3eeaa7b44f, type: 2}
+    - {fileID: 11400000, guid: 216b2bf01dd3c0a40a36e3a03a75224a, type: 2}
+  EasyCoreConfig:
+    ExercisesPerDay:
+    - {fileID: 11400000, guid: 080c790562c1ff84c9a9d58978d24630, type: 2}
+    - {fileID: 11400000, guid: ee8dce2196d1ff249b659bb4a998ae2a, type: 2}
+    - {fileID: 11400000, guid: 6826a3dc1ec975e4a946865a49d1456d, type: 2}
+    - {fileID: 11400000, guid: c78c682343a3ab34d9f97fc8d5e626c5, type: 2}
+    - {fileID: 11400000, guid: 7aaa61e71c63c284c82afd9bb8571b30, type: 2}
+    - {fileID: 11400000, guid: 823a09a7091b76849b0cc26f238dc1c8, type: 2}
+    - {fileID: 11400000, guid: d507a9cfc2aa79f48962947e54301b94, type: 2}
+  EasyLowerConfig:
+    ExercisesPerDay:
+    - {fileID: 11400000, guid: fdf986ddf88628643ae8d3ba86d2a3cb, type: 2}
+    - {fileID: 11400000, guid: 747b450a8fd339848bab4aa27c9b3be2, type: 2}
+    - {fileID: 11400000, guid: 2e1a04e18095b52408144853c2c89821, type: 2}
+    - {fileID: 11400000, guid: 08e15b35813888449922740793660b61, type: 2}
+    - {fileID: 11400000, guid: 7959a2b8b393b284fa488a96b1b9c9ef, type: 2}
+    - {fileID: 11400000, guid: 665dc14c1d9165942ab9fe61d4e97abf, type: 2}
+    - {fileID: 11400000, guid: 34911529a079552469b3d56e46146794, type: 2}
+  NormalUpperConfig:
+    ExercisesPerDay:
+    - {fileID: 11400000, guid: 00dfe1e32032c0a46b66be30b4cb8ca0, type: 2}
+    - {fileID: 11400000, guid: 7faecf2e11802354c85634083e00f504, type: 2}
+    - {fileID: 11400000, guid: 6509b7624a34a644097b4bae4ae4f487, type: 2}
+    - {fileID: 11400000, guid: b05ffb6aa0549004e8c278d27f0d836c, type: 2}
+    - {fileID: 11400000, guid: c5618efaa3220cf4f86bbbb365cd70b9, type: 2}
+    - {fileID: 11400000, guid: e70da83d8981f45499ec5a676c364277, type: 2}
+    - {fileID: 11400000, guid: 8108d5f5517f54548b53c77b438b172e, type: 2}
+  NormalCoreConfig:
+    ExercisesPerDay:
+    - {fileID: 11400000, guid: c1cb27fa8c0ba454a99ddf4cd33585c8, type: 2}
+    - {fileID: 11400000, guid: 1b0d3831d4a27374095cfc86febd9305, type: 2}
+    - {fileID: 11400000, guid: 65b4f730bc9f8184b8cd0763cc50638f, type: 2}
+    - {fileID: 11400000, guid: 473b47b4b493cfb4f93dbdfac038bdfa, type: 2}
+    - {fileID: 11400000, guid: 6af18b9fd074cad4385c0a2da6b29f1e, type: 2}
+    - {fileID: 11400000, guid: 7ba5db1de610a7b48b6673a22b55724f, type: 2}
+    - {fileID: 11400000, guid: 3773079e80fcdd648b70d5ed4c394286, type: 2}
+  NormalLowerConfig:
+    ExercisesPerDay:
+    - {fileID: 11400000, guid: 5f6bf8c968e275e4e8618b381e17544e, type: 2}
+    - {fileID: 11400000, guid: 766b135336c713440982c5fe119f352b, type: 2}
+    - {fileID: 11400000, guid: cf818ea99a2bfe8438c9a95acee83b85, type: 2}
+    - {fileID: 11400000, guid: 659a02ab96d716742938c9bc11b9c31e, type: 2}
+    - {fileID: 11400000, guid: ced88f9b157418d499a13e33c1fed1fe, type: 2}
+    - {fileID: 11400000, guid: 50cf0bf059a01ee40b2472e6e404757d, type: 2}
+    - {fileID: 11400000, guid: 3413bda322250904898bfa3f8ca5929b, type: 2}
+  HardUpperConfig:
+    ExercisesPerDay:
+    - {fileID: 11400000, guid: 5f74a88b3d1301f43a78db1bb080ac58, type: 2}
+    - {fileID: 11400000, guid: 9eb9334d5f8705e458cd620441a5c294, type: 2}
+    - {fileID: 11400000, guid: cfe3fa99b1cf56f48b86793fa79ed1f7, type: 2}
+    - {fileID: 11400000, guid: bf6e925ba8ff1c648968eaf6a1ea2b90, type: 2}
+    - {fileID: 11400000, guid: 639daaac8bda9934cb1c524276593caf, type: 2}
+    - {fileID: 11400000, guid: a9458923c3bc8f74bbc901308f1f7bc7, type: 2}
+    - {fileID: 11400000, guid: 9764164f3e6277c4d8cd733e93b7ccd8, type: 2}
+  HardCoreConfig:
+    ExercisesPerDay:
+    - {fileID: 11400000, guid: 3624e695f0c7f284ea3ac5af5cf54ba6, type: 2}
+    - {fileID: 11400000, guid: faf60761c82d5464989a2a826dc0b339, type: 2}
+    - {fileID: 11400000, guid: 5f3811e8214220d4bb53b3ab3aa54b17, type: 2}
+    - {fileID: 11400000, guid: 62e3304b8578a9b49ad12bd384b9c266, type: 2}
+    - {fileID: 11400000, guid: 6930c7c93452b1e4d9b1e0279692eac4, type: 2}
+    - {fileID: 11400000, guid: 7ef6fd4354e5c17409ca12d39a713651, type: 2}
+    - {fileID: 11400000, guid: 3f15152acc6fd864d9a8d5006c40cad1, type: 2}
+  HardLowerConfig:
+    ExercisesPerDay:
+    - {fileID: 11400000, guid: 5a139499d43b2fa40a9007ce43205ac0, type: 2}
+    - {fileID: 11400000, guid: 91ea8bcb8272d4944906653d3c6c6db8, type: 2}
+    - {fileID: 11400000, guid: f2a4e57a0fbd22041a8a17458ca6f29a, type: 2}
+    - {fileID: 11400000, guid: 34f43fc0708dcbe48835defc77451d70, type: 2}
+    - {fileID: 11400000, guid: 986e16e8a549fff42a83afe727fb01bc, type: 2}
+    - {fileID: 11400000, guid: 30058f6f2bfb5684897cd4afd0c1cc00, type: 2}
+    - {fileID: 11400000, guid: 7259b14da591a8147b1618384698fa4c, type: 2}

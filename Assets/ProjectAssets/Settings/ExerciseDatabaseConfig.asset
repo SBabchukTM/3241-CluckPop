@@ -1,0 +1,926 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0202c088ff9905b4796be0cec44f23c3, type: 3}
+  m_Name: ExerciseDatabaseConfig
+  m_EditorClassIdentifier: 
+  UpperExercises:
+  - ExerciseName: Knee Push-ups
+    ExerciseDescription: 'Start on hands and knees, hands shoulder-width apart
+
+      Cross
+      ankles behind you, keep straight line from knees to head
+
+      Lower chest
+      to floor by bending elbows
+
+      Push back up to starting position'
+  - ExerciseName: Wall Push-ups
+    ExerciseDescription: 'Stand arm''s length from wall
+
+      Place palms flat against
+      wall at shoulder height
+
+      Lean forward, bending elbows
+
+      Push back
+      to starting position'
+  - ExerciseName: Box Push-ups
+    ExerciseDescription: 'Place hands on elevated surface (box/bench)
+
+      Step
+      feet back to plank position
+
+      Lower chest to surface
+
+      Push back
+      up'
+  - ExerciseName: Standard Push-ups
+    ExerciseDescription: 'Start in plank position, hands shoulder-width apart
+
+      Lower
+      body until chest nearly touches floor
+
+      Keep core tight and body straight
+
+      Push
+      back up to starting position'
+  - ExerciseName: Wide-Arm Push-ups
+    ExerciseDescription: 'Place hands wider than shoulder-width
+
+      Lower chest
+      to floor
+
+      Keep elbows flared out
+
+      Push back up'
+  - ExerciseName: Diamond Push-ups
+    ExerciseDescription: 'Form diamond shape with hands (thumbs and index fingers
+      touching)
+
+      Lower chest to hands
+
+      Keep elbows close to body
+
+      Push
+      back up'
+  - ExerciseName: Pike Push-ups
+    ExerciseDescription: 'Start in downward dog position (hips high)
+
+      Lower
+      head toward floor between hands
+
+      Keep hips elevated throughout
+
+      Push
+      back to start'
+  - ExerciseName: Archer Push-ups
+    ExerciseDescription: 'Start with wide hand placement
+
+      Lower to one side,
+      extending opposite arm
+
+      Push back up
+
+      Alternate sides'
+  - ExerciseName: Push-ups w/Rotation
+    ExerciseDescription: 'Perform standard push-up
+
+      At top, rotate torso and
+      raise one arm skyward
+
+      Return to center
+
+      Alternate sides each rep'
+  - ExerciseName: Clap Push-ups
+    ExerciseDescription: 'Perform explosive push-up
+
+      Push hard enough to lift
+      hands off ground
+
+      Clap hands mid-air
+
+      Land softly and lower into
+      next rep'
+  - ExerciseName: Spiderman Push-ups
+    ExerciseDescription: 'Lower into push-up
+
+      Bring one knee toward same-side
+      elbow
+
+      Return leg while pushing up
+
+      Alternate sides'
+  - ExerciseName: Plyo Push-ups
+    ExerciseDescription: 'Lower into push-up position
+
+      Explosively push up
+
+      Hands
+      leave ground briefly
+
+      Land softly, immediately lower again'
+  - ExerciseName: Decline Push-ups
+    ExerciseDescription: 'Place feet on elevated surface
+
+      Hands on ground in
+      push-up position
+
+      Lower chest to floor
+
+      Push back up'
+  - ExerciseName: Handstand Push-ups
+    ExerciseDescription: 'Kick up into handstand against wall
+
+      Lower head toward
+      floor
+
+      Press back up to full arm extension
+
+      Keep core tight throughout'
+  - ExerciseName: Aztec Push-ups
+    ExerciseDescription: 'Start in push-up position
+
+      Explosively push up and
+      forward
+
+      Lift entire body off ground
+
+      Land back in push-up position'
+  - ExerciseName: One-Arm Push-ups
+    ExerciseDescription: 'Spread feet wide for balance
+
+      Place one hand behind
+      back
+
+      Lower chest with working arm
+
+      Push back up'
+  - ExerciseName: Assisted Pull-ups
+    ExerciseDescription: 'Grip bar with hands shoulder-width apart
+
+      Place feet
+      on chair/ground for support
+
+      Pull up using arms, minimal leg assistance
+
+      Lower
+      with control'
+  - ExerciseName: Jumping Pull-ups
+    ExerciseDescription: 'Stand under bar
+
+      Jump and grab bar while pulling
+      up
+
+      Use jump momentum to complete pull-up
+
+      Lower with control'
+  - ExerciseName: Pull-ups
+    ExerciseDescription: 'Hang from bar, palms facing away
+
+      Pull body up until
+      chin over bar
+
+      Lower with control
+
+      Keep core engaged'
+  - ExerciseName: Chin-ups
+    ExerciseDescription: 'Grip bar with palms facing you
+
+      Pull up until chin
+      over bar
+
+      Lower slowly
+
+      Keep shoulders back'
+  - ExerciseName: Wide-Grip Pull-ups
+    ExerciseDescription: 'Grip bar wider than shoulders
+
+      Pull up focusing on
+      lats
+
+      Chin over bar
+
+      Control descent'
+  - ExerciseName: Negative Pull-ups
+    ExerciseDescription: 'Jump or step to top position (chin over bar)
+
+      Lower
+      body slowly (5+ seconds)
+
+      Drop and reset
+
+      Repeat'
+  - ExerciseName: L-sit Pull-ups
+    ExerciseDescription: 'Hang from bar
+
+      Raise legs parallel to ground
+
+      Maintain
+      L position while pulling up
+
+      Lower with legs still raised'
+  - ExerciseName: Commando Pull-ups
+    ExerciseDescription: 'Grip bar with hands close, one in front of other
+
+      Pull
+      up to one side of bar
+
+      Lower and repeat
+
+      Alternate sides'
+  - ExerciseName: Weighted Pull-ups
+    ExerciseDescription: 'Wear weighted vest or backpack
+
+      Perform standard
+      pull-up
+
+      Focus on controlled movement
+
+      Full range of motion'
+  - ExerciseName: Muscle-ups
+    ExerciseDescription: 'Hang from bar with false grip
+
+      Pull explosively high
+      (chest to bar)
+
+      Transition elbows over bar
+
+      Press to straight arms'
+  - ExerciseName: Typewriter Pull-ups
+    ExerciseDescription: 'Pull up to one side
+
+      Shift horizontally to other
+      side while up
+
+      Lower down
+
+      Reverse direction next rep'
+  - ExerciseName: Behind-Neck Pull-ups
+    ExerciseDescription: 'Grip bar slightly wider than shoulders
+
+      Pull up bringing
+      bar behind neck
+
+      Touch bar to upper back/neck
+
+      Lower with control'
+  - ExerciseName: Mixed-Grip Pull-ups
+    ExerciseDescription: 'One palm facing you, one away
+
+      Pull up evenly
+
+      Lower
+      with control
+
+      Switch grip each set'
+  - ExerciseName: One-Arm Pull-ups
+    ExerciseDescription: 'Grip bar with one hand
+
+      Use towel in other hand for
+      minimal assistance
+
+      Pull up keeping body straight
+
+      Lower with control'
+  - ExerciseName: Incline Rows
+    ExerciseDescription: 'Lie under sturdy table/bar at angle
+
+      Pull chest to
+      surface
+
+      Keep body straight
+
+      Lower with control'
+  - ExerciseName: Inverted Rows
+    ExerciseDescription: 'Lie under bar/table
+
+      Body straight, heels on ground
+
+      Pull
+      chest to bar
+
+      Lower slowly'
+  - ExerciseName: Shoulder Taps
+    ExerciseDescription: 'Start in plank position
+
+      Lift one hand to tap opposite
+      shoulder
+
+      Minimize hip movement
+
+      Alternate hands'
+  - ExerciseName: Plank Rows
+    ExerciseDescription: 'Start in plank with hands on elevated surface
+
+      Row
+      one arm up, elbow past ribs
+
+      Return to plank
+
+      Alternate arms'
+  CoreExercises:
+  - ExerciseName: Knee Plank
+    ExerciseDescription: 'Start on hands and knees
+
+      Walk hands forward, lower
+      to forearms
+
+      Keep straight line from knees to head
+
+      Hold position'
+  - ExerciseName: Forearm Plank
+    ExerciseDescription: 'Start on forearms and toes
+
+      Keep body straight from
+      head to heels
+
+      Engage core
+
+      Hold position'
+  - ExerciseName: Side Plank (Knees)
+    ExerciseDescription: 'Lie on side, prop up on forearm
+
+      Stack knees, lift
+      hips
+
+      Keep body straight from knees to head
+
+      Hold position'
+  - ExerciseName: One-Arm Plank
+    ExerciseDescription: 'Start in standard plank
+
+      Shift weight to one arm
+
+      Lift
+      other arm
+
+      Keep hips level'
+  - ExerciseName: "360\xB0 Plank"
+    ExerciseDescription: 'Start in plank position
+
+      Walk hands and feet in circle
+
+      Maintain
+      plank throughout
+
+      Complete full rotation'
+  - ExerciseName: Plank Shoulder Taps
+    ExerciseDescription: 'Start in plank position
+
+      Tap one shoulder with opposite
+      hand
+
+      Minimize hip rotation
+
+      Alternate hands'
+  - ExerciseName: Plank to Pike
+    ExerciseDescription: 'Start in plank position
+
+      Lift hips up high into pike
+
+      Return
+      to plank
+
+      Repeat'
+  - ExerciseName: Plank Jacks
+    ExerciseDescription: 'Start in plank position
+
+      Jump feet apart
+
+      Jump
+      feet together
+
+      Keep upper body stable'
+  - ExerciseName: Dead Bugs
+    ExerciseDescription: "Lie on back, arms up, knees bent 90\xB0\nLower opposite
+      arm and leg\nReturn to start\nAlternate sides"
+  - ExerciseName: Crunches
+    ExerciseDescription: 'Lie on back, knees bent
+
+      Lift shoulder blades off
+      ground
+
+      Don''t pull on neck
+
+      Lower with control'
+  - ExerciseName: Reverse Crunches
+    ExerciseDescription: 'Lie on back, legs up
+
+      Lift hips off ground
+
+      Bring
+      knees toward chest
+
+      Lower slowly'
+  - ExerciseName: Bicycle Crunches
+    ExerciseDescription: 'Lie on back, hands behind head
+
+      Bring knee to opposite
+      elbow
+
+      Extend other leg
+
+      Alternate sides'
+  - ExerciseName: Russian Twists
+    ExerciseDescription: 'Sit with knees bent
+
+      Lean back slightly
+
+      Rotate
+      torso side to side
+
+      Keep chest up'
+  - ExerciseName: Heel Taps
+    ExerciseDescription: 'Lie on back, knees bent
+
+      Lift shoulder blades slightly
+
+      Reach
+      side to side tapping heels
+
+      Keep core engaged'
+  - ExerciseName: Leg Raises
+    ExerciseDescription: 'Lie on back
+
+      Keep legs straight or slightly bent
+
+      Raise
+      legs to 90 degrees
+
+      Lower without touching ground'
+  - ExerciseName: Flutter Kicks
+    ExerciseDescription: 'Lie on back, legs straight
+
+      Lift legs slightly off
+      ground
+
+      Alternate small up/down kicks
+
+      Keep core tight'
+  - ExerciseName: Windshield Wipers
+    ExerciseDescription: "Lie on back, legs up at 90\xB0\nLower legs to one side\nReturn
+      to center\nLower to other side"
+  - ExerciseName: Hollow Hold
+    ExerciseDescription: 'Lie on back
+
+      Lift shoulders and legs off ground
+
+      Press
+      lower back to floor
+
+      Hold position'
+  - ExerciseName: Cocoons
+    ExerciseDescription: 'Lie on back
+
+      Bring knees and chest together
+
+      Wrap
+      arms around knees
+
+      Extend fully, repeat'
+  - ExerciseName: Dragon Flags
+    ExerciseDescription: 'Lie on bench, hold behind head
+
+      Lift entire body
+      except shoulders
+
+      Keep body straight
+
+      Lower slowly'
+  - ExerciseName: Ab Wheel Rollouts
+    ExerciseDescription: 'Kneel holding ab wheel
+
+      Roll forward extending body
+
+      Keep
+      core tight
+
+      Pull back to start'
+  - ExerciseName: Hanging Knee Raises
+    ExerciseDescription: 'Hang from bar
+
+      Lift knees to chest
+
+      Control
+      the movement
+
+      Lower slowly'
+  - ExerciseName: Hanging Leg Raises
+    ExerciseDescription: "Hang from bar\nKeep legs straight\nLift legs to 90\xB0
+      or higher\nLower with control"
+  - ExerciseName: Toes-to-Bar
+    ExerciseDescription: 'Hang from bar
+
+      Lift legs up to touch bar
+
+      Use
+      core and hip flexors
+
+      Lower with control'
+  - ExerciseName: Human Flag Prep
+    ExerciseDescription: 'Grip vertical pole
+
+      Lift body sideways
+
+      Start
+      with knees tucked
+
+      Hold position briefly'
+  - ExerciseName: Human Flag
+    ExerciseDescription: 'Grip pole with wide hand spacing
+
+      Lift body horizontal
+
+      Keep
+      body straight
+
+      Hold position'
+  - ExerciseName: Front Lever Tucks
+    ExerciseDescription: 'Hang from bar
+
+      Lift knees to chest
+
+      Lean back
+      until body parallel
+
+      Hold position'
+  - ExerciseName: Front Lever
+    ExerciseDescription: 'Hang from bar
+
+      Lift body to horizontal
+
+      Keep
+      body completely straight
+
+      Hold position'
+  - ExerciseName: Planche Lean
+    ExerciseDescription: 'Start in push-up position
+
+      Shift weight forward past
+      hands
+
+      Rise onto toes
+
+      Hold lean position'
+  - ExerciseName: Planche Push-ups
+    ExerciseDescription: 'Start in planche lean
+
+      Lower chest toward ground
+
+      Maintain
+      forward lean
+
+      Push back up'
+  - ExerciseName: L-Sit to Handstand
+    ExerciseDescription: 'Start in L-sit position
+
+      Rock back and kick up
+
+      Press
+      to handstand against wall
+
+      Lower with control'
+  - ExerciseName: Russian Lever
+    ExerciseDescription: 'Lie on back
+
+      Lift legs and torso simultaneously
+
+      Create
+      V-shape with body
+
+      Pulse up and down'
+  - ExerciseName: Pike Press
+    ExerciseDescription: 'Start in pike position
+
+      Lower head toward ground
+
+      Press
+      back up
+
+      Mimics vertical pressing'
+  - ExerciseName: Side Plank Crunch
+    ExerciseDescription: 'Start in side plank
+
+      Bring top knee to elbow
+
+      Extend
+      back out
+
+      Keep hips lifted'
+  LowerExercises:
+  - ExerciseName: Chair Squats
+    ExerciseDescription: 'Stand in front of chair
+
+      Lower until buttocks lightly
+      touch seat
+
+      Don''t fully sit
+
+      Stand back up'
+  - ExerciseName: Supported Squats
+    ExerciseDescription: 'Hold doorframe or sturdy object
+
+      Lower into squat
+      position
+
+      Use support for balance only
+
+      Push through heels to stand'
+  - ExerciseName: Sumo Squats
+    ExerciseDescription: 'Stand with feet wider than shoulders
+
+      Toes pointed
+      outward
+
+      Lower straight down
+
+      Push through heels to stand'
+  - ExerciseName: Pistol Squats
+    ExerciseDescription: 'Stand on one leg
+
+      Extend other leg forward
+
+      Lower
+      down on standing leg
+
+      Push back up (use support if needed)'
+  - ExerciseName: Bulgarian Squats
+    ExerciseDescription: 'Place rear foot on chair/bench
+
+      Lower front knee
+      to 90 degrees
+
+      Keep torso upright
+
+      Push through front heel to stand'
+  - ExerciseName: Cossack Squats
+    ExerciseDescription: 'Take very wide stance
+
+      Shift weight to one side,
+      bending that knee
+
+      Keep other leg straight
+
+      Alternate sides'
+  - ExerciseName: Squat Jumps
+    ExerciseDescription: 'Lower into squat
+
+      Explode upward
+
+      Land softly
+      in squat position
+
+      Immediately repeat'
+  - ExerciseName: "180\xB0 Squat Jumps"
+    ExerciseDescription: 'Lower into squat
+
+      Jump and rotate 180 degrees
+
+      Land
+      in squat facing opposite direction
+
+      Repeat, alternating directions'
+  - ExerciseName: Shrimp Squats
+    ExerciseDescription: 'Hold one foot behind you with same-side hand
+
+      Lower
+      down on standing leg
+
+      Keep held leg bent behind
+
+      Push back up'
+  - ExerciseName: Sissy Squats
+    ExerciseDescription: 'Hold support for balance
+
+      Rise onto toes
+
+      Lean
+      back and bend knees forward
+
+      Lower until thighs parallel to ground'
+  - ExerciseName: Hindu Squats
+    ExerciseDescription: 'Start standing, arms extended forward
+
+      Lower into
+      squat on toes
+
+      Sweep arms back
+
+      Stand while bringing arms forward'
+  - ExerciseName: Single-Leg Squats
+    ExerciseDescription: 'Stand on one leg
+
+      Lower down keeping other leg off
+      ground
+
+      Maintain balance
+
+      Push back up'
+  - ExerciseName: Standing Lunges
+    ExerciseDescription: 'Step forward with one leg
+
+      Lower back knee toward
+      ground
+
+      Keep front knee over ankle
+
+      Push back to start'
+  - ExerciseName: Reverse Lunges
+    ExerciseDescription: 'Step backward with one leg
+
+      Lower back knee toward
+      ground
+
+      Keep torso upright
+
+      Return to standing'
+  - ExerciseName: Jump Lunges
+    ExerciseDescription: 'Start in lunge position
+
+      Jump and switch legs mid-air
+
+      Land
+      in opposite lunge
+
+      Immediately repeat'
+  - ExerciseName: Curtsy Lunges
+    ExerciseDescription: 'Step one leg behind and across other leg
+
+      Lower into
+      curtsy position
+
+      Keep hips square
+
+      Return to start'
+  - ExerciseName: Plyo Lunges
+    ExerciseDescription: 'Start in lunge position
+
+      Jump explosively upward
+
+      Switch
+      legs mid-air
+
+      Land softly in opposite lunge'
+  - ExerciseName: Step-ups
+    ExerciseDescription: 'Place one foot on step/bench
+
+      Push through heel to
+      step up
+
+      Bring other foot up
+
+      Step down with control'
+  - ExerciseName: Box Jumps
+    ExerciseDescription: 'Stand facing box/bench
+
+      Bend knees and swing arms
+      back
+
+      Jump onto box
+
+      Land softly, step down'
+  - ExerciseName: Broad Jumps
+    ExerciseDescription: 'Stand with feet hip-width apart
+
+      Swing arms back
+      and bend knees
+
+      Jump forward as far as possible
+
+      Land softly'
+  - ExerciseName: Depth Jumps
+    ExerciseDescription: 'Stand on low platform
+
+      Step off (don''t jump)
+
+      Upon
+      landing, immediately jump up
+
+      Focus on quick ground contact'
+  - ExerciseName: Triple Jump
+    ExerciseDescription: 'Take running start or stand still
+
+      Hop on one foot
+
+      Step
+      onto opposite foot
+
+      Jump with both feet'
+  - ExerciseName: Glute Bridges
+    ExerciseDescription: 'Lie on back, knees bent
+
+      Lift hips off ground
+
+      Squeeze
+      glutes at top
+
+      Lower slowly'
+  - ExerciseName: Single-Leg Bridges
+    ExerciseDescription: 'Lie on back, one knee bent
+
+      Extend other leg straight
+
+      Lift
+      hips using bent leg
+
+      Lower with control'
+  - ExerciseName: Calf Raises
+    ExerciseDescription: 'Stand on balls of feet
+
+      Rise up onto toes
+
+      Hold
+      briefly at top
+
+      Lower slowly'
+  - ExerciseName: Lying Leg Lifts
+    ExerciseDescription: 'Lie on side
+
+      Lift top leg up
+
+      Keep leg straight
+
+      Lower
+      with control'
+  - ExerciseName: Single-Leg Deadlifts
+    ExerciseDescription: 'Stand on one leg
+
+      Hinge at hip, extending other leg
+      back
+
+      Reach toward ground
+
+      Return to standing'
+  - ExerciseName: Tuck Jumps
+    ExerciseDescription: 'Start standing
+
+      Jump up bringing knees to chest
+
+      Land
+      softly
+
+      Immediately repeat'
+  - ExerciseName: Lateral Jumps
+    ExerciseDescription: 'Stand beside imaginary line
+
+      Jump sideways over line
+
+      Land
+      on opposite side
+
+      Jump back immediately'
+  - ExerciseName: Skater Hops
+    ExerciseDescription: 'Stand on one leg
+
+      Hop laterally to other leg
+
+      Let
+      trailing leg cross behind
+
+      Continue alternating'
+  - ExerciseName: Nordic Ham Curls
+    ExerciseDescription: 'Kneel with feet anchored
+
+      Keep body straight from
+      knees up
+
+      Lower forward slowly using hamstrings
+
+      Push back up or
+      use hands to assist'
+  - ExerciseName: Wall Sit
+    ExerciseDescription: 'Lean back against wall
+
+      Slide down until thighs parallel
+      to ground
+
+      Keep knees at 90 degrees
+
+      Hold position'
+  - ExerciseName: Jumping Jacks
+    ExerciseDescription: 'Start with feet together, arms at sides
+
+      Jump feet
+      apart while raising arms overhead
+
+      Jump back to start
+
+      Repeat continuously'
+  - ExerciseName: Burpees
+    ExerciseDescription: 'Start standing
+
+      Drop to plank position
+
+      Optional:
+      add push-up
+
+      Jump feet to hands, stand up'

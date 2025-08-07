@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6979bce30cb42f4f9d48127f5b20212, type: 3}
+  m_Name: ChickensConfig
+  m_EditorClassIdentifier: 
+  ChickenGrowConfigs:
+  - Sprites:
+    - {fileID: 21300000, guid: fc5a8ba83f1a5ff43a3c993688b20e20, type: 3}
+    - {fileID: 21300000, guid: e50b3e62a4ccefc48bbea71a1afd0ae3, type: 3}
+    - {fileID: 21300000, guid: 41339b7e6f7d7da4da34ccdc303c88c4, type: 3}
+    - {fileID: 21300000, guid: 91f18e31a26d752428bfb7026e7087fd, type: 3}
+    - {fileID: 21300000, guid: eadb17a076040e744a1de2f162ff77c9, type: 3}
+  - Sprites:
+    - {fileID: 21300000, guid: 85cdc216a9bd90b4dbf9129062ec0875, type: 3}
+    - {fileID: 21300000, guid: 037258ea1b914044597af83f7567f983, type: 3}
+    - {fileID: 21300000, guid: ea1c303f1e07b684f812f22c36bae8ab, type: 3}
+    - {fileID: 21300000, guid: ae90df3c06672f34bb9fa2308d0207ce, type: 3}
+    - {fileID: 21300000, guid: 0bcc319a2020e814396772aa55bbcfc3, type: 3}
+  - Sprites:
+    - {fileID: 21300000, guid: 96bedec6d6d377341b1697ddcf066a5f, type: 3}
+    - {fileID: 21300000, guid: 1b704fe928f9dac4cbbe8856cdfa8a17, type: 3}
+    - {fileID: 21300000, guid: 39ffb7a56fa7659498881729628ad027, type: 3}
+    - {fileID: 21300000, guid: 4939f7ff0a781944ea6326538bd6a0c1, type: 3}
+    - {fileID: 21300000, guid: c79f438efe589a543bb4009eb430baf7, type: 3}
+  - Sprites:
+    - {fileID: 21300000, guid: 5cfccc9a5a925594dacd7b24049cca1b, type: 3}
+    - {fileID: 21300000, guid: 2eef3eb88509ad34ebdb2a721abe064d, type: 3}
+    - {fileID: 21300000, guid: b745ab81b58740d42a6ca9a46765725d, type: 3}
+    - {fileID: 21300000, guid: 128a051d40f6ba541beb6fab346b3d65, type: 3}
+    - {fileID: 21300000, guid: b322cab27a5d7664899f4c6da88cb964, type: 3}
+  - Sprites:
+    - {fileID: 21300000, guid: 8b478f33bc1ceb144afe67633dfdc2cc, type: 3}
+    - {fileID: 21300000, guid: 7f7cf13f0e892ad4faf1214604693288, type: 3}
+    - {fileID: 21300000, guid: 9f7c8d47acb49d64aa5ff6a4bca0919f, type: 3}
+    - {fileID: 21300000, guid: 3e1245618e987b84ab213928296aa99e, type: 3}
+    - {fileID: 21300000, guid: a386d1f74ba87fa48aec86a53e7eb2cf, type: 3}
+  - Sprites:
+    - {fileID: 21300000, guid: 216279ad67e0a0d40aca3466e0f21170, type: 3}
+    - {fileID: 21300000, guid: a75eca6e7f21a8547bd6548149f19bb1, type: 3}
+    - {fileID: 21300000, guid: 52dcc002f4dad684a9bdc1c476fdaf17, type: 3}
+    - {fileID: 21300000, guid: f2197c25715890b429ed569e6e924334, type: 3}
+    - {fileID: 21300000, guid: 2566d45da939ac3499ec8bc540f4b2d8, type: 3}
+  - Sprites:
+    - {fileID: 21300000, guid: e7896520b5482db4eb0457c6c8a8df47, type: 3}
+    - {fileID: 21300000, guid: 7b9671b03af163c46b7b83d0477232b7, type: 3}
+    - {fileID: 21300000, guid: 96a45fd840170bb458eedf24ae3e17fc, type: 3}
+    - {fileID: 21300000, guid: 5ca23057bdcc1ab47b2404cb40ec86ab, type: 3}
+    - {fileID: 21300000, guid: d25ac92e0d83a454ca53920dbf69e96d, type: 3}
+  - Sprites:
+    - {fileID: 21300000, guid: 3ee078925170cb54d8bfbe90698847be, type: 3}
+    - {fileID: 21300000, guid: 21e9311429780a04597d8cd961e8c473, type: 3}
+    - {fileID: 21300000, guid: 9174d95e099708340a8355a2990776cf, type: 3}
+    - {fileID: 21300000, guid: 7bf221662af37684cb217aebcbd5ce9b, type: 3}
+    - {fileID: 21300000, guid: c17ee8e12427344449f4e396ea92f9a5, type: 3}
+  - Sprites:
+    - {fileID: 21300000, guid: 0bd9b6269e295bc418964c0171451f54, type: 3}
+    - {fileID: 21300000, guid: 4d0cd45328cfe364cbf06075386f425f, type: 3}
+    - {fileID: 21300000, guid: 7673143809f08814ab7ecb90c797491f, type: 3}
+    - {fileID: 21300000, guid: 98cd01a7f4feb8349bf2d6ead59efb5a, type: 3}
+    - {fileID: 21300000, guid: df79fae32a2016a4aa4e40c2502999ae, type: 3}
+  - Sprites:
+    - {fileID: 21300000, guid: c8c8ba81b7efaa04081293afa3651b0d, type: 3}
+    - {fileID: 21300000, guid: 982b0698bc5208846af617809cd653d2, type: 3}
+    - {fileID: 21300000, guid: 97883da297cc3e647ae3ea427c1cdd9a, type: 3}
+    - {fileID: 21300000, guid: 63dae4348f4fb844ca1dad117b56aefc, type: 3}
+    - {fileID: 21300000, guid: 22404ab087b450e40bb0177ed9e45201, type: 3}
